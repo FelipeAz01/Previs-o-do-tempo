@@ -13,7 +13,10 @@ body {
     /* Altura / vh - altura */
     width: 100vw;
     /*  vw - largura */
-    background-image: url(./img/img-fundo.jpg);
+    background-image: url(./img/img-fundo2.jpg);
+    background-size: cover;
+    width: 100%;
+    height: 38em;
 }
 
 .caixa-maior {
