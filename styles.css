@@ -13,7 +13,7 @@ body {
     /* Altura / vh - altura */
     width: 100vw;
     /*  vw - largura */
-    background-image: scr="https://github.com/FelipeAz01/Previs-o-do-tempo/blob/main/img/img-fundo.jpg";
+    background-image: url(./img/img-fundo.jpg);
 }
 
 .caixa-maior {
